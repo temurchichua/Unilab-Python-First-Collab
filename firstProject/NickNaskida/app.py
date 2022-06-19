@@ -54,7 +54,7 @@ class BookingSchema(Schema):
     def validate_quantity(self, service_id):
         service = Service.query.get(service_id)
         if not service:
-            raise ValidationError(f"Service wit id - {service_id} does not exist.")
+            raise ValidationError(f"Service with id - {service_id} does not exist.")
 
 
 booking_schema = BookingSchema()
