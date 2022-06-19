@@ -18,7 +18,7 @@ C:.
 │           profiles_settings.xml
 │
 └───firstProject
+    |   readme.md
     └───saba_zedginidze
-            app.py
-            readme.md
+            app.py      
 ```
