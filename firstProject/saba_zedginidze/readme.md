@@ -1,6 +1,6 @@
 # My first project
 
-Name: Saba Zedginidze\
+Name: Sabazed\
 Github: <a href="https://github.com/sabazed">https://github.com/sabazed \
 Project Name: <b>First Collab</b>\
 Readme:
